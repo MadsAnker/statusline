@@ -7,5 +7,6 @@ def getStatusLine():
     wifi = components.wifi.getWifiStatus()
     nextTask = components.tasks.getNextTask()
     nextEvent = components.calendar.getNextEvent()
+    vpn = components.vpn.getExpressVpnStatus()
 
-    return "{}   {}   {}   {}   {}   {}".format(nextEvent, nextTask, wifi, sound, battery, time)
+    return "{}   {}   {}   {}   {}    {}   {}".format(nextEvent, nextTask, wifi, vpn, sound, battery, time)

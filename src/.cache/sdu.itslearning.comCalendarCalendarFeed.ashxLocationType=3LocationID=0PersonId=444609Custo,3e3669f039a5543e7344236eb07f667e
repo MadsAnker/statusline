@@ -1,23 +1,23 @@
 status: 200
-date: Mon, 27 Sep 2021 18:47:23 GMT
+date: Mon, 07 Feb 2022 12:24:16 GMT
 content-type: text/html; charset=utf-8
 connection: keep-alive
-set-cookie: AWSALBTG=aR3Wq3hge95iKVFuUvR2HTkKjaZ0ODyCB1X3+9mMP9uSvIxfYosUcxihqrGuFEAKIKOC7zAMmLFg4rdaGPHrDqe7fSGItT6Oniwc5sUPuSN3+ZqH9TKxOKV/fcQ3kzh+lBReRabG0eGno0gzCJJw8aUpEfloBQ4AUaQvrKgV9gvHBRklYEE=; Expires=Mon, 04 Oct 2021 18:47:23 GMT; Path=/, AWSALBTGCORS=aR3Wq3hge95iKVFuUvR2HTkKjaZ0ODyCB1X3+9mMP9uSvIxfYosUcxihqrGuFEAKIKOC7zAMmLFg4rdaGPHrDqe7fSGItT6Oniwc5sUPuSN3+ZqH9TKxOKV/fcQ3kzh+lBReRabG0eGno0gzCJJw8aUpEfloBQ4AUaQvrKgV9gvHBRklYEE=; Expires=Mon, 04 Oct 2021 18:47:23 GMT; Path=/; SameSite=None
+set-cookie: AWSALBTG=pMOFMzdVj6x5L+73zjY/8xiofskKuD1GETdKFyC8NmCbVB0Ty0h10iFg9PY2eofHTrm2e1pUjFCWRb8TpPXYgflXVd62ge2o6ChpFrbIYI2ObWRnbGnNy5SOckVUPjqs8dmClIYisPHzp0lFQSjwkv4WBX+GXaB6Ns0uqQR48ZjPDjDd85s=; Expires=Mon, 14 Feb 2022 12:24:16 GMT; Path=/, AWSALBTGCORS=pMOFMzdVj6x5L+73zjY/8xiofskKuD1GETdKFyC8NmCbVB0Ty0h10iFg9PY2eofHTrm2e1pUjFCWRb8TpPXYgflXVd62ge2o6ChpFrbIYI2ObWRnbGnNy5SOckVUPjqs8dmClIYisPHzp0lFQSjwkv4WBX+GXaB6Ns0uqQR48ZjPDjDd85s=; Expires=Mon, 14 Feb 2022 12:24:16 GMT; Path=/; SameSite=None
 cache-control: private
 vary: Accept-Encoding
-content-security-policy: frame-ancestors 'self' *.itslearning.com *.itslearning.com:* teams.microsoft.com *.teams.microsoft.com *.skype.com; form-action 'self' *.itslearning.com *.itslearning.com:* https://*.readspeaker.com https://filerepository.itslearning.com https://eu1files.itslearning.com https://idp.feide.no https://st.bau.edu.tr https://login.emu.dk https://*.rogfk.no https://www.medarbejdernet.dk https://www.silkeborgdata.dk https://eu1oosl.itslearning.com https://us1oosh.itslearning.com https://docs.sdui.de https://*.officeapps.live.com; font-src 'self' *.itslearning.com *.itslearning.com:*  https://www.wiris.net *.googleapis.com fonts.gstatic.com themes.googleusercontent.com *.fontawesome.com *.cloudflare.com data: https://spellchecker.skoleintra.dk; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.itslearning.com *.itslearning.com:*  https://eu1realtime.itslearning.com https://*.readspeaker.com https://www.wiris.net https://www.dropbox.com https://wchat.eu.freshchat.com https://spellchecker.skoleintra.dk *.googleapis.com https://www.google.com https://apis.google.com *.google-analytics.com https://aselect.entree.kennisnet.nl https://aselect-s.entree.kennisnet.nl https://ssonot.aselect.entree.kennisnet.nl https://widgets.remind.com https://contentstorage.onenote.office.net/ https://players.brightcove.net https://vjs.zencdn.net/vttjs/0.12.4/vtt.global.min.js https://vjs.zencdn.net/vttjs/0.12.5/vtt.global.min.js; style-src 'self' 'unsafe-inline' *.itslearning.com *.itslearning.com:*  https://*.readspeaker.com https://www.wiris.net https://www.dropbox.com https://wchat.eu.freshchat.com https://spellchecker.skoleintra.dk *.googleapis.com; worker-src blob:;
+content-security-policy: frame-ancestors 'self' *.itslearning.com *.itslearning.com:* teams.microsoft.com *.teams.microsoft.com *.skype.com; form-action 'self' *.itslearning.com *.itslearning.com:* https://*.readspeaker.com https://filerepository.itslearning.com https://eu1files.itslearning.com https://idp.feide.no https://st.bau.edu.tr https://login.emu.dk https://*.rogfk.no https://www.medarbejdernet.dk https://www.silkeborgdata.dk https://eu1oosl.itslearning.com https://us1oosh.itslearning.com https://docs.sdui.de https://*.officeapps.live.com https://identityserver.itslearning.com; font-src 'self' *.itslearning.com *.itslearning.com:*  *.googleapis.com fonts.gstatic.com themes.googleusercontent.com *.fontawesome.com *.cloudflare.com data: https://spellchecker.skoleintra.dk; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.itslearning.com *.itslearning.com:*  https://eu1realtime.itslearning.com https://*.readspeaker.com https://www.dropbox.com https://wchat.eu.freshchat.com https://spellchecker.skoleintra.dk *.googleapis.com https://www.google.com https://apis.google.com *.google-analytics.com https://aselect.entree.kennisnet.nl https://aselect-s.entree.kennisnet.nl https://ssonot.aselect.entree.kennisnet.nl https://widgets.remind.com https://contentstorage.onenote.office.net/ https://players.brightcove.net https://vjs.zencdn.net/vttjs/0.12.4/vtt.global.min.js https://vjs.zencdn.net/vttjs/0.12.5/vtt.global.min.js; style-src 'self' 'unsafe-inline' *.itslearning.com *.itslearning.com:*  https://*.readspeaker.com https://www.dropbox.com https://wchat.eu.freshchat.com https://spellchecker.skoleintra.dk *.googleapis.com; worker-src blob:;
 x-frame-options: sameorigin
 x-xss-protection: 1; mode=block
-feature-policy: accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera *; document-domain *; fullscreen 'self' https://assignment.itslearning.com https://applications.itslearning.com https://platform.itslearning.com https://page.itslearning.com https://testtool.itslearning.com https://oembeditslearning.com https://powerpoint.officeapps.live.com https://euc-powerpoint.officeapps.live.com https://ffc-powerpoint.officeapps.live.com https://usc-powerpoint.officeapps.live.com https://player.vimeo.com https://www.youtube.com https://videos.bi.no https://kaltura.com https://cdnapi.kaltura.com https://cdnapisec.kaltura.com; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone *; midi 'none'; payment 'none'; picture-in-picture *; sync-xhr *; usb 'none'; vr 'none'
-x-itsl: EUCWEB887
+feature-policy: accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera *; document-domain *; fullscreen 'self' https://assignment.itslearning.com https://resource.itslearning.com https://platform.itslearning.com https://page.itslearning.com https://testtool.itslearning.com https://oembeditslearning.com https://powerpoint.officeapps.live.com https://euc-powerpoint.officeapps.live.com https://ffc-powerpoint.officeapps.live.com https://usc-powerpoint.officeapps.live.com https://player.vimeo.com https://www.youtube.com https://videos.bi.no https://kaltura.com https://cdnapi.kaltura.com https://cdnapisec.kaltura.com https://live.myvrspot.com https://hedemokaf.itslearning.com https://150.kaf.eu.kaltura.com https://1945731-2.kaf.kaltura.com https://2217991.kaf.kaltura.com https://2293361.kaf.kaltura.com https://295kaf.kaltura.nordu.net https://athena.kaf.itslearning.com https://dmjx.kaf.itslearning.com https://kaf-ltigeneric-283.kaltura.nordu.net https://kp.kaf.itslearning.com https://phabsalon.kaf.itslearning.com https://sdu.kaf.itslearning.com https://studiewebben.kaf.itslearning.com https://ucsyd.kaf.itslearning.com https://viakaf.itslearning.com https://kaf-ltigeneric-341.kaltura.nordu.net https://151.kaltura.nordu.net https://367-1.kaltura.nordu.net https://282.kaltura.nordu.net https://2568471.kaf.kaltura.com https://hyria.planetestream.com https://docs.sdui.de; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone *; midi 'none'; payment 'none'; picture-in-picture *; sync-xhr *; usb 'none'; vr 'none'
+x-itsl: EUCWEB734
 referrer-policy: strict-origin-when-cross-origin
 strict-transport-security: max-age=63072000; includeSubDomains
 x-content-type-options: nosniff
 x-ua-compatible: IE=edge
 cf-cache-status: DYNAMIC
 server: cloudflare
-cf-ray: 6956e67288b5d885-CPH
-content-length: 67674
+cf-ray: 6d9c98211a607373-CPH
+content-length: 49381
 -content-encoding: gzip
 content-location: http://sdu.itslearning.com/Calendar/CalendarFeed.ashx?LocationType=3&LocationID=0&PersonId=444609&CustomerId=900937&ChildId=0&Guid=2f3f48998ee593a66c64c1e64243e178&Culture=en-GB&FavoriteOnly=True
 -varied-accept-encoding: gzip, deflate
@@ -28,2393 +28,1710 @@ VERSION:2.0
 X-WR-CALDESC:itslearning Internet Calendar
 X-WR-CALNAME:itslearning
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210913T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210913T070000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220201T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220201T090000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U164
-UID:GbRLK96ok+gUx91jEOdQfs/rl5g=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:imNvpGaiY3ZE3sPyeNgXQ7GE8Lc=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210913T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210913T090000Z
+DTEND:20220201T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220201T130000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U110
-UID:IzOQ7apytgWljELPGj+t0TIPClo=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U20
+UID:I5T2DMJiX9XkyuPowgTiHUNu61s=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210913T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210913T120000Z
+DTEND:20220202T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220202T090000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U55
-UID:R2JoVakwjNxKwGPzpuPaAZep1qU=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210913T160000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210913T140000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U30
-UID:qYBSBGrKBfkMS5dx/dp2BGzZSDQ=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210914T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210914T080000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:QW03StPbQT/7MTGp39QGAYbFxiU=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps. SFV-time
-DTEND:20210914T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210914T100000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U26A
-UID:81aadYWLKu1SO95/tmyt83rV6Sw=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U143
+UID:fuoMLg3W966SGo5R1yhl86dxpjo=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:
-DTEND:20210914T170000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210914T140000Z
+DTEND:20220202T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220202T110000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:NG6JLKP7xfyCtX3LBCkqLQGVNY4=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Studieintro
-DTEND:20210915T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210915T060000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U23
-UID:efxyb4+QAMrFko9F+vhePOiYN7k=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U23
+UID:b/4xlxvL3zqsDEJmQ9/s1O5/Tjw=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210915T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210915T080000Z
+DTEND:20220202T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220202T130000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U55
-UID:K1anC/Itb+9+UcXkl38gLZBf0h4=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:csA0rKKrgZ/SJMTBMMVEVOQQv74=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210915T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210915T080000Z
+DTEND:20220203T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220203T110000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U53
-UID:DOdFiOm/swEiO6EXh+nEwGGmejI=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U48A
+UID:wE9ENtRAdjUCykPYL6FyZb6LvrE=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20210915T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210915T100000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220203T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220203T130000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U23
-UID:lLK7TLJqQGU37lKUC6HnQ24Al4g=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U55
+UID:Yvw+f96kwxjx0CPSzyO1ytRy8xA=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210915T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210915T120000Z
+DESCRIPTION:SDU Maps. Studieordningsændringer med studievejleder
+DTEND:20220204T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220204T100000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U148
-UID:PuAuKy+xmOMqx02Wc/wFqzanSwo=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Meeting - Odense U48A
+UID:Rf1ejdu4S/72pqjDpUJIP54IOrk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210916T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210916T080000Z
+DESCRIPTION:SDU Maps. Studieordningsændringer med studievejleder
+DTEND:20220204T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220204T100000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:AMeBkiYkYyZhUb/jrJeUGojsmQc=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210916T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210916T100000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:cGuxwsB2axQABzbm+gkAXP1KXww=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20210917T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210917T060000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - *Odense NAT Lokalitet aftal...
-UID:Z1mJhubrcZqEVnV7ZhnYKhgpDN0=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Meeting - Odense U48A
+UID:HeaogQioFHQfuopn9oN0vNImfa8=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210917T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210917T080000Z
+DTEND:20220204T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220204T110000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:2QLLlAi+pnsIrf66wO4TgyoxTH4=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U150
+UID:EPWJzE6BC6JQzJg5ipbG5XYriZI=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210917T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210917T100000Z
+DTEND:20220207T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220207T090000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U55
-UID:T10OIRoJ1CBIRyElD5kJ5G53mSw=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U43
+UID:XoSOd6bjIJqJRiGXnteCcICtolA=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210920T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210920T070000Z
+DTEND:20220207T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220207T110000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U164
-UID:Wd5iTZdw8/3KUWkjUOFjRlsKUKk=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Lecture - Odense U20
+UID:02X7ws2lAT+h1yrh/7jxXWNWYyk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210920T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210920T090000Z
+DTEND:20220207T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220207T110000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U110
-UID:NHn+DPOE1wtArXtnl7G3JvT5LQI=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: Lecture - Odense U20
+UID:BpHcqpILc76icso31rWcshD7AVs=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210920T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210920T100000Z
+DTEND:20220207T170000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220207T150000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:ffV/nnSxbh+7FTm++hXeyFK7QEs=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:SbBkdqyixiJvmyegW+5SXfua1BI=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210920T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210920T120000Z
+DTEND:20220208T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220208T070000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U55
-UID:yGN0GJbm8qEd9o2fmw8CoEG3wgk=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U42
+UID:ARzgF0JYSE1b7HXTjYDf1EgqsYo=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220208T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220208T090000Z
+SEQUENCE:0
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:zi6FJ0KPdpGSU4YUEraVJAQq/e8=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210920T160000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210920T140000Z
+DTEND:20220208T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220208T130000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U24
-UID:rkCia1CjOzd+6E475Zg5DDkNXWY=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:084D3iGJukFnfahxRcvyJqPl6aQ=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210921T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210921T060000Z
+DTEND:20220208T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220208T130000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U55
-UID:1QK0eYddwTDP2kATAnVoSAtxhUc=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210921T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210921T080000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:97GSUbf1boB0y8AbuinnYzC+dwk=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20210921T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210921T100000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - *Odense NAT
-  Lokalitet aftales 12
-UID:BoNudPRu2707ohXxnYGhu46tqGk=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 151
+UID:k1HRPrP4ltR2pHCxv0L8oWvac0w=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:
-DTEND:20210921T170000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210921T140000Z
+DTEND:20220209T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220209T070000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:dm5a4g1CkqN2Eunzecw6nEh48Js=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Studieintro
-DTEND:20210922T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210922T060000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U23
-UID:lXLcOVsC1HC2xXjEaLLAJgPHKAE=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U23
+UID:MifR3bQR4ZQC1UeJ7nT8c6VcqO8=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210922T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210922T080000Z
+DTEND:20220209T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220209T090000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U21
-UID:znHWifj4o2H5Yd3F5VXwLEMY68U=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U152
+UID:bq3UOQFbRm6yQeuEooiLWa6uGvA=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ONLINE.Åbenthus
+DTEND:20220209T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220209T110000Z
+SEQUENCE:0
+SUMMARY:Åbent Hus Kandidat\, tilvalg og sidefag\, 9. februar\, NAT: Åbent 
+ hus - *Odense NAT Lokalitet aftale...
+UID:KfOvZ5q+FY+pdtgRM0CT/sR2r2c=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210922T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210922T080000Z
+DTEND:20220210T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220210T070000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U55
-UID:IHreDJXlotB21m4vQi9C/oA8qoo=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20210922T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210922T100000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U23
-UID:ASqNIplaYQsUlfbrINlsaDqnXCs=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: H8E - Lessons - Odense...
+UID:GRdQ/y3UcDl0ZZr01rD7lnD1HuU=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210922T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210922T120000Z
+DTEND:20220210T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220210T110000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U148
-UID:LU5GD1D9iBzxBcDHCNMm2m3PjOE=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps. SFV-time
-DTEND:20210922T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210922T120000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U146
-UID:qRQJCQMyf85mQuz1JcT/KaMcPho=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U48A
+UID:5gx0HKy+cOs1t+goJmqQ12DWKNA=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210923T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210923T080000Z
+DTEND:20220211T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220211T070000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:DYj1jB7RLMIXzfsklZmd+/FOvXE=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U157
+UID:taWUddTfAro9NCdvZwvDjkN+eFY=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210923T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210923T100000Z
+DTEND:20220211T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220211T090000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:7YA9zutdbeMfNseVeIAC/MDoS7U=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Velkommen til dit Fagråd
-DTEND:20210923T160000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210923T120000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: Lecture - 
- *Odense NAT ONLINE 1
-UID:YZxLgCG6wSbibkNCuuNa0h9Fx9I=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20210924T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210924T070000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - *Odense NAT Lokalitet aft...
-UID:bBcVwiAwmBMnuzxN/17BOaEwWH0=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U31
+UID:3tKHva+8ekCssw0CRTYJ/aJRopQ=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210924T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210924T100000Z
+DTEND:20220214T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220214T090000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U146
-UID:yUn90v9RQM5V5fuIRVSMWrZj/5c=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U43
+UID:fv0IdxwKiXGauaIJLldP/w8mnoU=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220215T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220215T090000Z
+SEQUENCE:0
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:IRIGyhKRkYslhcYwSrvsNiYLrgk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210924T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210924T100000Z
+DTEND:20220215T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220215T130000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U55
-UID:gcPzn4W7otAjx4PcP5+lFXyyFuU=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:3hhzGou3k5DKw/nbT2fWbVecprs=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210927T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210927T070000Z
+DTEND:20220216T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220216T070000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U164
-UID:2KhzfxrAi4x3Dl8FnexOp502m+g=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 151
+UID:U9PgG/noRnMDntTyF7yuYSESDz4=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210927T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210927T090000Z
+DTEND:20220216T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220216T110000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U110
-UID:JbTJkIXVDGjPitoGFMndcjgJH94=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210927T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210927T100000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:pBwzVA0yTeYymTa1fOI59uWj+Xg=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210927T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210927T120000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U55
-UID:3alLJHxan/3RmAN5IpD9XcSUG+k=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210928T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210928T060000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U55
-UID:RpF+G70em0efAN3sRZu6YvW+Idg=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210928T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210928T080000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U21
-UID:iggrPc5TSTsRr+TNvrHl9wWtfh4=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210928T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210928T080000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:K7vvDLatJTVUr27Z0HZUzqP0JRs=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U152
+UID:/diPIiqIEoJ5h0yOAOJpr9h3fs0=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:
-DTEND:20210928T170000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210928T140000Z
+DTEND:20220216T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220216T130000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:EIy3Tezj+BS9n24z43vnvdqID/U=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U23
+UID:4gaWuHH4wl+BN+Pz49pOsoM02tw=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210929T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210929T080000Z
+DTEND:20220217T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220217T070000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U1
-UID:/U0xfsyiJHZEbJ4Boi3niCzFMls=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U142
+UID:6P1YgD7o/6h4UfTvvbbYCzylgR8=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220217T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220217T130000Z
+SEQUENCE:0
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U55
+UID:JRkwFJAGjCxbmiRn52fnyDG9XUs=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20210929T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210929T080000Z
+DTEND:20220218T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220218T070000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U55
-UID:A6s/N7Lj2xMPXHM9G+b+mhPnt3E=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20210929T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210929T100000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U23
-UID:eMZdEWmfJVo/t6DLEtS+L1yqK04=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20210929T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210929T110000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - *Odense NAT Lokalitet aftal...
-UID:jdk3RLadLVOHhuvuELUGcnk9QP8=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps. SFV-time
-DTEND:20210930T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210930T060000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U26A
-UID:5nUmMrfSxlnzFOAuJ5cYGseTafQ=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210930T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210930T060000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U156
-UID:4axkFCP7iR9O0SZnoI6mq9lojFM=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210930T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210930T080000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:Cdel1eE2XVtDirLFhVOteameF6o=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20210930T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20210930T100000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:2/s+D+Lin20zGalNW8uG7GfSXyw=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211001T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211001T080000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:5N6wCnPo/doGlOU8siNGISE7Cjo=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211001T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211001T100000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U146
-UID:IWu86q4uaElX/e8YKjfqw6xyGP8=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211004T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211004T070000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U164
-UID:zIy9LvKd0/wrFBiYt9W1kxjDNLM=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211004T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211004T090000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U110
-UID:xpUvnOkFuY6qVNs1SrV81KcYo8s=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211004T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211004T100000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:BHo49BBVVjx/nicydNhgV8Z5VhA=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211004T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211004T120000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U55
-UID:Yd1yMFOl9KqN7ZtXoxy802dKm/g=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211004T160000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211004T140000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U24
-UID:WRacMxgRGsXFwbU8NW1Mf3ykFiM=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211005T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211005T060000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U55
-UID:s61qe/uuQUw2i4NoeiAFIIfx3vI=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211005T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211005T080000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:o5fPydwbkrA+/uZqpwSvVeBWQNw=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211005T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211005T100000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - *Odense NAT
-  Lokalitet aftales 12
-UID:oR4P8IqUMRkvcxVD3h0oEEp6YWQ=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps. SFV-time
-DTEND:20211005T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211005T120000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U28A
-UID:ad2pbcvzJpj19eEzPU+WIyIM6aE=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U155
+UID:nPMhjkzyidmaTtkRf8sYqx6oA+w=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:
-DTEND:20211005T170000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211005T140000Z
+DTEND:20220221T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220221T110000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:QaYJNnueRmJPhEKuloejqHwRhyU=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U23
+UID:dZTVj4MOZ6yQ2OTG0OADPjh9KBE=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211006T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211006T080000Z
+DTEND:20220221T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220221T110000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U47
-UID:/Go/8K697gk0xihLgSg4EfWY/Ps=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Lecture - Odense U20
+UID:0uJNl62T6bNIz8tIJmfpiQSaggU=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211006T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211006T080000Z
+DTEND:20220221T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220221T110000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U55
-UID:FE17Nz90DDHNqU4pKFnHVkxrjFU=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211006T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211006T100000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U23
-UID:GvLzOWmmh7Fvt0kcQNidejQetdI=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211007T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211007T070000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - *Odense NAT Lokalitet aft...
-UID:W6gIh2yh+UNo4uQ0/mSkO0CRFII=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: Lecture - Odense U20
+UID:bYN28SDugdOPC2Co+6tMkxHtkHw=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211007T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211007T080000Z
+DTEND:20220221T160000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220221T140000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:Eza4j9ApSx4omAHZU1CGA5mh6AA=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:7lb7CnDP5T78S49kRX+sALMswjo=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211007T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211007T100000Z
+DTEND:20220222T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220222T070000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:GwsPNQC3Op1WmuaOZW71i+CJItA=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 151
+UID:XpnCzffatzm2hzdJSbMrD07dVso=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220222T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220222T090000Z
+SEQUENCE:0
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:nENaZbszYyUEwh7jq8emHqAsb1I=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211007T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211007T120000Z
+DTEND:20220222T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220222T110000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U155
-UID:Kzb7qTjaiZrfYOF95+FTn2N+P6w=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U46
+UID:AO1DH/Dk6h9OanRlusXIT0yEJ2s=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211008T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211008T060000Z
+DTEND:20220222T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220222T130000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U55
-UID:oIU/T/I7N68VAtze1bWo6IlH/iE=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:kd59vfGz4Nkk/JrTgiBptfJ+OY0=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211008T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211008T100000Z
+DTEND:20220223T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220223T090000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U154
-UID:bbEM3lC1nhO4+p2HGJi+GHaJJIg=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U46
+UID:rjtNnoADUNcHossRRSGz0Jh9lY8=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211011T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211011T070000Z
+DTEND:20220223T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220223T110000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U164
-UID:N7EG6s2Q9SXOcs9iCGHPN49Jo/E=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U152
+UID:jN18DuAL48PUMnlu5/7W0KqnE7U=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211011T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211011T090000Z
+DTEND:20220223T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220223T130000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U55
-UID:hHwqViefaSvhSS4lI9+2SEKB5C0=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:glbIRBX9Qdof5ctJUYMaJnSzAMw=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211011T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211011T100000Z
+DTEND:20220223T170000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220223T150000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:g3u63G1WrdQHDnCTtf0u0D54Yz4=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:a6B8zxiisl6NIvDLzw/1EWQbPPc=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211011T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211011T120000Z
+DTEND:20220224T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220224T070000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U55
-UID:cTOnLtsdi6LGUmKvY0V/y2MS08I=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: H8E - Lessons - Odense...
+UID:BHmqdLkkRAo8hik0YudO8wo6CrE=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211011T160000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211011T140000Z
+DTEND:20220225T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220225T070000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U24
-UID:2hFV/impA3dbmLOCb6nNehmpYPc=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U157
+UID:2oFTk3D02fmHEab64ZjsfarhlKo=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211012T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211012T060000Z
+DTEND:20220228T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220228T090000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U55
-UID:90ZJ8PmRcWzzP5VZGpEsKWIr3lU=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U48A
+UID:EYG+Aa7jBPYNLpPiZkv1lrDFrls=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211012T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211012T080000Z
+DTEND:20220228T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220228T110000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:EhvBxzWLghazuNKiVUWaQgmcQvs=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211012T170000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211012T140000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:GGi+nIy1aquR3RcdJ9I7iOcO4dQ=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps. SFV-time
-DTEND:20211013T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211013T060000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U48
-UID:d8U582fqL6lr9L5XeQNsh9Y4m24=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Lecture - Odense U20
+UID:jPwGTaVXT1+ELQ9WxFMwgd2W4WU=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211013T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211013T080000Z
+DTEND:20220228T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220228T110000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U55
-UID:uXsfS7aBygvfGj7idEjBfvTIm34=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: Lecture - Odense U20
+UID:H5BplsoauMQT5KRi3fjkmYzZeaU=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211013T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211013T080000Z
+DTEND:20220301T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220301T070000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U47
-UID:7eIyWgldSi3kOpgSNhqsmd1rE/Q=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:1ibhnwF6otmzrp8z3/rcnapjA/w=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211013T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211013T100000Z
+DTEND:20220301T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220301T070000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U1
-UID:Ns9e1JmYfPnkZFe0Rv+J6J0UlRg=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 151
+UID:NRGiULZhGT0YYX/fcYbtRJUa5Kc=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211014T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211014T060000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220301T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220301T090000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - *Odense NAT Lokalitet aftal...
-UID:kG0d/HTaR4MbSokcTb4XV23JCcs=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211014T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211014T060000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U156
-UID:xd9V+XyIY3JRJ1jx06y3A3Iu8Ec=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:ChrlkSAXG9Y0CgQiHoTpWAOFEZo=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211014T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211014T080000Z
+DTEND:20220302T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220302T110000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:/avGpr1hgOhJLNq8GagXFSACVlM=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U20
+UID:yV2r3j2iP6nqRdBigVJ0gpwZX10=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211014T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211014T100000Z
+DTEND:20220302T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220302T130000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:JmROMe2dFRDqGqZNIz47ZKC2S0o=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:3txFzWHu7ZsM10hUNXNwgHDUVEk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211015T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211015T060000Z
+DTEND:20220302T170000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220302T150000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U55
-UID:S2lDPD1duml0fi4eBh8sHatlx0w=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:8vfeEIY7lhGC7IF9vD5WGYsQ1po=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211015T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211015T080000Z
+DTEND:20220303T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220303T070000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:BUUt89/Hm7F++1VA3XdU20kgmbk=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: H8E - Lessons - Odense...
+UID:wAYRD7PAacsg980HHQXMZSWR+Ck=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211015T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211015T100000Z
+DTEND:20220303T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220303T090000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U147
-UID:tNg16dKHYEqfbwktBeby9HTJbE0=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U24A
+UID:ttOM8i77+XL24wcZGdjNRd4anT0=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220303T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220303T130000Z
+SEQUENCE:0
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U55
+UID:nbc84QMc4Mt9HkgY8Bov/KQS6fs=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211025T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211025T070000Z
+DTEND:20220304T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220304T070000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U152
-UID:iaGoPmc9mfB8ZLSkKlWuAu4JtZ0=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U155
+UID:lWPPdnzWS4I7pb0Qljb1mhbSxwQ=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211025T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211025T090000Z
+DTEND:20220307T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220307T110000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U82
-UID:yH5wPXAHiwdb7bmUIf7yQ7Homgk=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Lecture - Odense U20
+UID:sYjIPk/0Zwj45U2fP85678LefLM=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211025T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211025T100000Z
+DTEND:20220307T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220307T110000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:LQLoTYyNz5QL4w8C6hV9uwvHTF8=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211025T140000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211025T120000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U47
-UID:EQh1xBbzU3ALSVSKcKlAinb2J0g=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211026T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211026T060000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U55
-UID:/dJi+XbcorQz+weQt65Mc+2IbJg=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211026T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211026T080000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:q15TV591oiCSp2fTlMEBi85KuyI=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps. SFV-time
-DTEND:20211026T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211026T100000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U26
-UID:9KBMR+aBMFxrYMlW/As2Qw2sYt8=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: Lecture - Odense U20
+UID:DpOGWBXyayzf7SJM9eJ38WRlZl8=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:
-DTEND:20211026T170000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211026T140000Z
+DTEND:20220307T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220307T130000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:sSUKiFIJIuCCF3GYnmoKJW9Yn88=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U23
+UID:Wg1TVe4ArFZecVJxgQaLUhMuySY=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211027T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211027T060000Z
+DTEND:20220307T160000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220307T140000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:5e1h9y+u7z+G8FXXCsUiEVAWDp8=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lokale mangler
-DTEND:20211027T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211027T080000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - *Odense NAT Lokalitet aftales 10
-UID:n+ICjI08b1dWYtr0/Ina73rZw6U=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U147
+UID:TPq7y0j5OjRLm+YFLw4sqGxYgxE=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211027T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211027T100000Z
+DTEND:20220307T160000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220307T140000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U1
-UID:34pkdWkxBTRxGgGCozBXVgdNDSE=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:dG/bF07v3A5WLd/sth3a55vRY+s=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211027T160000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211027T140000Z
+DTEND:20220308T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220308T070000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U45
-UID:m3BKG3NtTeB6H84AcOGT21F578o=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 151
+UID:i2b+v2AqGT5JDtdcVCCY7Dg4ePM=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211028T080000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211028T060000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220308T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220308T090000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - *Odense NAT
-  Lokalitet aftales 12
-UID:VNhDRmMXLWNOgKqfjAHKQ+Y6uY0=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211028T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211028T080000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:G/99DBNH6CnWMgv5lohQpFP06IU=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:zl+cIyL1CxfW2s2W5ZKmdLhKawE=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211028T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211028T080000Z
+DTEND:20220308T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220308T130000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U64
-UID:qO6RW0afQZFUJ3y93Rnf6wRVtFE=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:1qZLfIn5qgsEivdzLL2IUbd7R84=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211028T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211028T100000Z
+DTEND:20220309T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220309T090000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:pNDK+MtKTt1QoltzZ6BViJ6oVlk=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U46
+UID:anGYFjDWwansZfznWedKOBhZVyc=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211101T100000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211101T080000Z
+DTEND:20220309T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220309T130000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U152
-UID:RL0URec6dUFnPZwgHpyQdp0HqNA=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:K6YNgeqCYlljMpuXBn03jufVRbQ=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211101T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211101T100000Z
+DTEND:20220309T170000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220309T150000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U180
-UID:3TWIwpU1PC6laCMdX6SFRpDlBIo=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:tS4KGWIJ1GwzfoI7Geq16yYTZ4Y=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211101T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211101T110000Z
+DTEND:20220310T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220310T070000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:V8RRJ8wOBGU3D4xlouflt+EygYU=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: H8E - Lessons - Odense...
+UID:xaTXwoGHCkyk0lYB7/2sK+BM3Sk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211101T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211101T130000Z
+DTEND:20220310T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220310T090000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U47
-UID:CjA0wTaXMZ2b50mvvem2zVAyD1c=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U46
+UID:QmJaC2HUbpHpq2dhB+ukXADgQIU=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211102T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211102T070000Z
+DTEND:20220311T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220311T070000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U20
-UID:E7Pdr/APlKXZTvmhE/KcFu6hZq8=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U157
+UID:VTqRuSHdaexWGfLwDGaRW8c5t1E=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211102T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211102T090000Z
+DTEND:20220311T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220311T090000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:B8/cPBynNAm07yw93ElztuLJXV4=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211102T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211102T120000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - *Odense NAT Lokalitet aft...
-UID:1uzr64Wd1mAV6uAOc9u1bwVHd+U=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps. SFV-time
-DTEND:20211102T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211102T130000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U25A
-UID:ra5CQoLyIVZl+yKbTeTzta+SOGw=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211102T180000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211102T150000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:lo7ZDnZnjYqg/c0Asn+ngbe37Xg=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U80
+UID:156f3crNwSeWkUH6pv/0P3jyvAg=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211103T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211103T070000Z
+DTEND:20220314T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220314T090000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U47
-UID:0LkjTJmIiYFBLjr7h5dptYxKiQw=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211103T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211103T090000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U23
-UID:fLxUzTLdraBVq0GTYR67/xtGQ5E=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U55
+UID:0C2l2yMOt4NPqyuJzUzePQCy5nI=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211103T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211103T110000Z
+DTEND:20220314T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220314T110000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U82
-UID:TRzMQpP8JxJKwzpnsxwcESt8sU4=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211104T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211104T070000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - *Odense NAT Lokalitet aftal...
-UID:Xl6vbOeupN00Rb0Cl96Bh2aIHV4=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: Lecture - Odense U20
+UID:8TaP6I4mH0zCN3dZXQleTxWelFE=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211104T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211104T090000Z
+DTEND:20220314T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220314T110000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U25A
-UID:aT053STZq4go96oj5sizn2ZUZ/g=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Lecture - Odense U20
+UID:uYLqxgYlS4TxyOjGAlB90F3TDPc=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211104T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211104T090000Z
+DTEND:20220315T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220315T070000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U64
-UID:zDySX/9MfewPYIoc6VY9i2DTrOs=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 146
+UID:W4BVmW9IWiq6GD84PDyJVG6Byc4=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220315T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220315T090000Z
+SEQUENCE:0
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:Sf6Flj9fWUlM/ZkmLm4W6Xa//Yg=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211104T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211104T110000Z
+DTEND:20220315T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220315T130000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U160
-UID:Onpzms+jb2FzC4Aoh/I05imAzxU=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:3nv6bjE7Na4q7x//QLxiO0SMfI4=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211104T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211104T110000Z
+DTEND:20220316T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220316T090000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:MSJEjSvS/ACHOloqu0whiLltu78=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U46
+UID:oz7xhG5ZqSeJhdAgBfENhAf4KrU=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps.
+DTEND:20220316T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220316T130000Z
+SEQUENCE:0
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:IkxHdg00I9TByGuFy3Xmh12lVU4=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps.
+DTEND:20220316T170000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220316T150000Z
+SEQUENCE:0
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:o/5wnpUbrrc684uQ2QXfJLQ5h2w=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps.
+DTEND:20220317T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220317T070000Z
+SEQUENCE:0
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: H8E - Lessons - Odense...
+UID:o3En44qj83LcDlWyrR0QPGnf9Pc=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220317T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220317T130000Z
+SEQUENCE:0
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U55
+UID:7+3ok7R+jtBaNp+w8S0AcqHWZvI=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps.
+DTEND:20220318T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220318T070000Z
+SEQUENCE:0
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U154
+UID:QRoKit10yzU8C7lxij5HpRtcdsM=@itslearning.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SDU Maps.
+DTEND:20220318T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220318T110000Z
+SEQUENCE:0
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U26A
+UID:TKFv2/8EI9lsqLLzwHKFNucqEAM=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:
-DTEND:20211105T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211105T070000Z
+DTEND:20220321T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220321T110000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U23
-UID:G1nzM5i/0U+5fU8A7XPLKSOGZtA=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U23
+UID:6I9wLoihlzHQfYxcfZYueaxZgGc=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211105T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211105T090000Z
+DTEND:20220321T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220321T110000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:0ol20EaS4OgK6aujPFFUcEnRnuQ=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Lecture - Odense U20
+UID:WW23pG6i/Qk9AMhytrHHsuSYf3k=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps. Studieforum
-DTEND:20211105T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211105T110000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U154
-UID:Cp/fqziOqOLIlHXJLJ5nbbl4T6M=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211108T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211108T090000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U154
-UID:fBmvEbVK/jwXmNtOCoGhLSsfqUA=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211108T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211108T100000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U177
-UID:sids9FuPSdQYR3F1VxAhDlbYS90=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211108T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211108T110000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:DEt+K6H2rK4OXY8bu8be6I8vPh4=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211108T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211108T130000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U30
-UID:OfgGcQOJTIkcj9lrAB60/EEZiPM=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps. SFV-time
-DTEND:20211108T160000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211108T150000Z
-SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U30
-UID:M/URsvXD0xsIkHk31cVAzhZg4S0=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211109T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211109T070000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U20
-UID:B61Yg84ECEuK41La9JmJQ2Ek2gU=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211109T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211109T090000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:bRkwXzfsiIigXckro4Xnec0NWyg=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211109T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211109T110000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - *Odense NAT Lokalitet aft...
-UID:ENdkHwQ1jDEmPlvKe4y9+4V6uJI=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211109T180000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211109T150000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:406VOjI+HWi/pW1oTZN6TtjbF1M=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211110T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211110T090000Z
+DTEND:20220321T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220321T110000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U47
-UID:4dGxPZIFtTXvyhvmdB36qwoB0Rc=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: Lecture - Odense U20
+UID:VcUgdqEbwgl6nB1mbFjhfRnjbV4=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211110T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211110T090000Z
+DTEND:20220321T160000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220321T140000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U55
-UID:dhi/Yhhon6K4ROSU5jIhDTqmkzU=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U147
+UID:o6miQAMlftJ1qotvJp5XkMIfmng=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211110T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211110T110000Z
+DTEND:20220322T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220322T070000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U180
-UID:KyGwrXgi4QwapN9LI0KIlGYnEJc=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 146
+UID:9RjnK3CRlKGyiEjm1mnGSI3mJg4=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211111T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211111T070000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220322T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220322T090000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - *Odense NAT
-  Lokalitet aftales 10
-UID:VJNV36VzCpPR9db7BbC8WXeJxZM=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:0sa6TZaShSJwv37Tr34g3jwQEcg=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211111T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211111T070000Z
+DTEND:20220322T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220322T110000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U157
-UID:hKNFitQz3g4rs2MQPrEgc20veMc=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U46
+UID:7dsL5eYXcYn8JAbXPzUTVtnz20E=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211111T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211111T090000Z
+DTEND:20220322T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220322T130000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:V5DATSWQJD+mxX69hsxaDcj34Vs=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:nBxNMvT0zdR9T2sA3IFCJiYInx8=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211111T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211111T110000Z
+DTEND:20220323T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220323T090000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:YgpEKzIAzOmX9qfzTGoGew1xrNA=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 80
+UID:Qm5Ttum0D4stp5d7NT4BDvy/ios=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211112T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211112T070000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U23
-UID:Q89taA1qaYMrOI6LFKYYYbh7w/E=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211112T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211112T090000Z
+DTEND:20220323T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220323T130000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:ASeeQ2TE0sn7a37Q0uAbsb4nJa4=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:yoDwMpaoN01Zgl80892gSRX1XTc=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211112T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211112T110000Z
+DTEND:20220324T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220324T070000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U147
-UID:jmx6k9ZTo3Q/KF1tjyFYiZ2o4RY=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: H8E - Lessons - Odense...
+UID:v5nmOTwEbi7V2xRbUPG15J/8IMY=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211115T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211115T090000Z
+DTEND:20220324T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220324T110000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U154
-UID:W45oug5825ig0OhbsXWVsNna3ns=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U27A
+UID:3JzTaDGUE1biK6xTe44VClI9U0E=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211115T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211115T100000Z
+DTEND:20220325T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220325T070000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U177
-UID:mkAaCtwydI5vDotdmX8l0u/P0Oc=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U157
+UID:M107a0/qFEhU5UPYV/A603gXXRo=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211115T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211115T110000Z
+DTEND:20220325T110000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220325T090000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:mSMU/aln+AdS+jHsjmOw2mpXBvo=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U32
+UID:FcrRX5enAa322KQ2zd7PdHcnoHo=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211115T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211115T130000Z
+DTEND:20220328T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220328T080000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U30
-UID:i3nLb1UjkIQq/tIphyLhBSSiGfE=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U55
+UID:bb9qsQr+0UlxnObVnUm1STJFiOQ=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211116T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211116T070000Z
+DTEND:20220328T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220328T100000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U20
-UID:F7T1JNT3ibPRD3YBaabK4F1dHu0=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: Lecture - Odense U20
+UID:s5/pCx+dVkAI8zXDSb7WhSB6Rwo=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211116T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211116T090000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:QO995sg97sputvv2P0ZgjVEY+0I=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211116T180000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211116T150000Z
+DTEND:20220328T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220328T100000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:EZXmbCf8r1B0nFLZABPm0HcNz3I=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Lecture - Odense U20
+UID:d4Edc2q1Nub8Yl3a7BG4vKkSFP4=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Studieintro
-DTEND:20211117T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211117T080000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220329T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220329T080000Z
 SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U23
-UID:zasA9qPQ8g+js4q208iznBY08/s=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:j3SEobVOAAMHXZMp5npkM5WIScA=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211117T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211117T090000Z
+DTEND:20220329T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220329T120000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U47
-UID:F1trGBNsvZGP+QCTOdVeJ3Ii9/o=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:utkjNgaZMZ3cYf2j84Tx63Lbbiw=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211117T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211117T090000Z
+DTEND:20220330T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220330T060000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U180
-UID:SiG0moNMWaK0vu4Sz+08K1eYs3k=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 152
+UID:KOhkLhLGJashjbthNb3dJPTDD5w=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211117T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211117T110000Z
+DTEND:20220330T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220330T080000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U140
-UID:4pzgPuZaS9zszX6Yc62x1ZstXeQ=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U46
+UID:TrIha1B6Qv2M7BOFl5ut0I4geHc=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211117T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211117T130000Z
+DTEND:20220330T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220330T120000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U154
-UID:knyY8yiKHKIYOIH6CLV1gt3pS1k=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:2Aa59AWURv7ObsubhyqNXGHUegg=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211118T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211118T070000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - *Odense NAT Lokalitet aftal...
-UID:DhqcStI1hWlPy0oU8hOwWBFkxpE=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211118T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211118T090000Z
+DTEND:20220330T160000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220330T140000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:gShJ6Y2o3GEXUfHzkzI7kOPevF0=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:YLSG3QzMzbLDZD5Bx60pCh2FD0c=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211118T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211118T110000Z
+DTEND:20220331T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220331T060000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:La52X/e9OeJzVIGI+BBX1fxmOxs=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: H8E - Lessons - Odense...
+UID:6jbscKxXTeZC9N/N6B7L1Lxmygg=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211119T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211119T070000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220331T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220331T120000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U82
-UID:/5uQjVg8z9Jy9/alaNc9eQOu1TY=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U55
+UID:Z7ELJ/vonl1cSmTWY4quu1y5HDY=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211119T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211119T090000Z
+DTEND:20220401T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220401T060000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:wdgrjsZ1vOP7agMD5V/4SGL7cy8=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U144
+UID:9OQtTnRvMaI4Yn8Zk2seJWA/ph8=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211119T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211119T110000Z
+DTEND:20220401T120000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220401T100000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U147
-UID:3zeEFKsFn16hQOKY/TBNH5S1jHw=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U155
+UID:4r8pcc36Ey8np4NbSwgrmu+8Gkc=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211122T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211122T090000Z
+DTEND:20220404T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220404T080000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U154
-UID:MD4SLzA7ilWGjn14NwJJKKPDq3M=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U181
+UID:RbC4WLXD5buyqbzxd6gn0ZNUAfM=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211122T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211122T100000Z
+DTEND:20220404T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220404T100000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U24
-UID:+LO2y1NH0xix95tSt6ZMi0qGiEk=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Lecture - Odense U20
+UID:R2w1cJXIgsDGrhxQ5EZaqS0zWPQ=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211122T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211122T110000Z
+DTEND:20220404T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220404T100000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:29aPjUavxzNNPWk9jGrSvpdDYoA=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: Lecture - Odense U20
+UID:ywLyw6u1peG9wh139udWg6SXo38=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211122T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211122T130000Z
+DTEND:20220404T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220404T130000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U30
-UID:5dXMm2ltsQyqk3LKh5pNYzgWhXM=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:/UrbogXXjFBpvFAvQ0gWsS3YZQI=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211123T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211123T070000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220405T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220405T080000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U20
-UID:XcGvCdgT4z7wO8vxyk7tXLZ9iYw=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:/RH50tfedhfrjevY6zngnSQYUe4=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211123T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211123T090000Z
-SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:+LeXPSshAbw8ey19D3w55Kyo41c=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211123T180000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211123T150000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:S+W0ZTy2w00rVmvaexcG1UTvc0M=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211124T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211124T080000Z
+DTEND:20220405T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220405T120000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - *Odense NAT Lokalitet aft...
-UID:ZaiohpU3q2Au0rLCcdxY7ctT5mU=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:/903AUu+7rjYzdsTmFhDtfejZy8=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211124T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211124T090000Z
+DTEND:20220406T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220406T060000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U55
-UID:04yCQ8IM/ikZ70coPxnUcZu/9Oc=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 143
+UID:n59dD1rFaaUtL5ZCy1Vj5PpUzSA=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211124T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211124T090000Z
+DTEND:20220406T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220406T080000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U31
-UID:xPbqmVBvJ81Tu5S9B6WY9lJgIJ0=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U20
+UID:qczFoXAWPYt7+HOJTTmImveevYY=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211124T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211124T110000Z
+DTEND:20220406T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220406T120000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U180
-UID:viFKMTiRXvwTTsAJwrYNnBvcQ3A=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:++w/zh5xgTlEhaHlTajEGxeR4lU=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211124T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211124T130000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U154
-UID:2dr1FYk/GPGHmY5YAZgJM3eyFx8=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211125T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211125T070000Z
+DTEND:20220407T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220407T060000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - *Odense NAT
-  Lokalitet aftales 12
-UID:BOI1fgKUHoWaoukOfQE8xokAHcs=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: H8E - Lessons - Odense...
+UID:zByzedgxlhqoM0bHPPIVk8A6ZTY=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211125T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211125T090000Z
+DTEND:20220408T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220408T060000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:VVG5+foyBYwdimiQxNy3uTxLJ98=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U157
+UID:hG7FE+uh/VmM0K3chAygbMmGaPE=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211125T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211125T110000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:abWOWET9AImiWWZYlImzfitj8Ec=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211126T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211126T070000Z
+DTEND:20220408T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220408T080000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U23
-UID:fVbEJQyE3Jd+wGUXjaYQAJpwQtg=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U80
+UID:riWpCpmOXY4/jv102XVpSOpJzXA=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211126T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211126T090000Z
+DTEND:20220408T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220408T080000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:DhkEYXVgMnZzNsKS3l1XXLgakUg=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U29A
+UID:/vd/FFzwlsI/CK6C/IZudky/CE4=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211126T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211126T130000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U154
-UID:6xHO67TdlSqa1DEDXY5gv1QJHuE=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps. SFV-time
-DTEND:20211129T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211129T070000Z
+DTEND:20220419T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220419T060000Z
 SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U171
-UID:L3AV6oMSCm62JX9eWfoKuJhrn/s=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U42
+UID:UXy3InKLkeDLoCVXpQPTXRvlI/0=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211129T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211129T100000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220419T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220419T080000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U177
-UID:Un672OoTvs14znINugbKhmpS7k0=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:tUkOrL87OjVBKJx2fZ/GVjqZHx8=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211129T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211129T110000Z
+DTEND:20220419T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220419T120000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:2tmhaNu7mNr6HjHtrZqq6/Wf+YA=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 151
+UID:HGvI54dRVXcGRvgPxyuUkJVn+Eg=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211129T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211129T130000Z
+DTEND:20220419T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220419T120000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U30
-UID:FXpF7Puuvb8JLe0RMrOKoYluUYQ=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:4Wj/yToH45RByAW2rCXhpgCtKrM=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211130T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211130T070000Z
+DTEND:20220420T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220420T060000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U20
-UID:hdvaRePJz7kAJdd6xcoUGuq81DU=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U155
+UID:INDqYN9WQNWnom+1ZbdN9w/BStk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211130T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211130T090000Z
+DTEND:20220420T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220420T120000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:yD7ehNxmvhhhOByD3P0mHJ1zX7o=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:i1q3Uf9QJb4b3z9ucehS+qQ9RHg=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211130T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211130T130000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U24
-UID:t7eX4BjYBabqx5bfUCwesg/ZyHU=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211130T180000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211130T150000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:qip82zKwrIoEYP+m/E/DOMowf7I=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Studieintro
-DTEND:20211201T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211201T080000Z
+DTEND:20220421T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220421T080000Z
 SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: H8E - Less
- ons - Odense U23
-UID:hOylqfA5s/PT7pek0YGONmm1JhE=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U46
+UID:YVAuuJca87/7GCGAdWFTdALFKyk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211201T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211201T090000Z
+DTEND:20220421T120000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220421T100000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U47
-UID:P3wKQMAIWg7pnEhb9uTqRQUT/Rs=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U20
+UID:vERIRr64ywcU4NJre4qHtIcmnY0=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211201T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211201T090000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220421T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220421T120000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U55
-UID:aq8q70VosL8AU/9g25ULs6A09LA=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U55
+UID:JxPcT6eXh/hWJ6y1sQ4tkVcoMAk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211201T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211201T110000Z
+DTEND:20220422T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220422T060000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U140
-UID:t9IoER6iOkNu76ytnGcIwellpww=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U153
+UID:ReIFvpGtEOZA2+PlYSLk/0nSHc0=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211201T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211201T130000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U145
-UID:inJ6PKpEgrKynLRiFWZhZ9w/gnY=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211202T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211202T070000Z
+DTEND:20220422T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220422T120000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - *Odense NAT Lokalitet aftal...
-UID:qCupzh8tw76IkoJAZKqh1X1M9R4=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U80
+UID:KS9zNSwD2EGo4dQzO2ShNl0BCOU=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211202T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211202T090000Z
+DTEND:20220425T120000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220425T100000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:mm3FkaWUUSldai45VuNEQIiJdt4=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U46
+UID:sUmB8fcVN2xQBh4T0wLMsUsnBog=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211202T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211202T110000Z
+DTEND:20220425T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220425T100000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:SMtjbO9TBKayx77N6PwKPmwj/tQ=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Lecture - Odense U20
+UID:3dyRXJKuomU7aKNgesi2AGaDU1g=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211203T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211203T070000Z
+DTEND:20220425T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220425T100000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U82
-UID:3x3Imv6eTvsHFGd88r+KoEgQgcg=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: Lecture - Odense U20
+UID:LWvr+e0KJPZimzVqNYx12CTJUKk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211203T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211203T090000Z
+DTEND:20220425T150000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220425T130000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:O/QyFjeZ/l7eyh1KrXOaSdAJZRE=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U147
+UID:TiSm2zyGBtjtXmwRaNdR9JaNiyA=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211203T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211203T110000Z
+DTEND:20220426T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220426T060000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U24A
-UID:gQdt9tCADYJ15gnKDKQlOEEcoXg=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 151
+UID:fGhD9pJ+i6wuf4ynodKDNyrMTrQ=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211206T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211206T100000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220426T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220426T080000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U177
-UID:JBPSvb8qrr+KDe8+gXXeEGQyOUk=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:i9iv75gYe5eUnrHqSTnKef69pAg=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211206T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211206T110000Z
+DTEND:20220426T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220426T120000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:UpacFgXOoFv60sBoSAD7Fdw1fq8=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: Lecture - Odense U20
+UID:FQ8k3OULf9FTbY4bEnTtnomTEMI=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211206T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211206T130000Z
+DTEND:20220427T120000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220427T100000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U30
-UID:mAPszE4NQ3l2eulZJtgdLrjGfEc=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 154
+UID:XQfhjeG8UteduXMLniWGEu52fxQ=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211207T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211207T070000Z
+DTEND:20220427T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220427T120000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U20
-UID:F5D1RIRt5b4pLPz+vAxFJ3+UNhw=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:U1/85ZSH8JpR6pY3i16tXlMBI4I=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211207T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211207T090000Z
+DTEND:20220427T160000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220427T140000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:Jmv0RbyGKxdjBxQGKVgXVmK7f2E=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:3Uw5bOhjkjN2bLBTiwdYHCKMIHU=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211207T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211207T130000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U24
-UID:pi+OhvC6u+2iDSSopcJN25pMEQU=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211207T180000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211207T150000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:4Z1NirKmfjKejUhumHm1fUJsP8k=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211208T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211208T080000Z
+DTEND:20220428T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220428T060000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - *Odense NAT Lokalitet aft...
-UID:pwIhaIuq3/pauHJNijnM82TkFwg=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: H8E - Lessons - Odense...
+UID:3qv+pEi83LE2A3MzJM8yjCpDK/Y=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211208T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211208T090000Z
+DTEND:20220429T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220429T060000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U47
-UID:Dm2kj1SfKxhX5yaD320j61hOjKE=@itslearning.com
+SUMMARY:DM563: Concurrent Programming\, forår 22. f: H8E - Lessons - Odens
+ e U153
+UID:Dg5InLnKnrk6DsszlHgbsQrwn9M=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211208T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211208T090000Z
+DTEND:20220429T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220429T080000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U55
-UID:MEaWm352NLOszi10ElZp0mC5WRs=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U80
+UID:bYOQ/7Q13gVKV7efwBGtUOlrLPk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211208T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211208T110000Z
+DTEND:20220502T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220502T080000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U140
-UID:bb9ST7SXPTZVK2H1PlUZq14cqEM=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U110
+UID:xxkuoHzvmum0d5fwtwb4aE/QZoE=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211209T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211209T070000Z
+DTEND:20220502T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220502T100000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U156
-UID:Uoo5isxF9PGx8zYxQzcOd1013JM=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: Lecture - Odense U20
+UID:5IH6OLs4i1s5+VG7BfRq+3fIwug=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211209T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211209T090000Z
+DTEND:20220502T130000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220502T100000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:VdF9ulekI7tRwoJJ815tTDrt+QI=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: F - Lecture - Odense U20
+UID:j1C5H8qaSVPGaFi4zMuXFVVof8I=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211209T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211209T110000Z
+DTEND:20220503T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220503T060000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:nawXIAVgw39+XY/4pQ4HpCGmtjk=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 151
+UID:UYvY1LflySy980Kg7Cl+L7B1fsI=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211210T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211210T070000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220503T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220503T080000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U23
-UID:zJCptga0OxnxM0/asBUj6zAPpfQ=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:JNHnAMM8hbnpNQs6ssqHJ/DQ8is=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211210T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211210T090000Z
+DTEND:20220504T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220504T080000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:JeRk5Dmb7oGLD5D7twHcevOt3xo=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U145
+UID:Tu2rt/AlLajoRVRjGyyQMwUJMFU=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211210T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211210T110000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U24A
-UID:n1UR5jfE/kIVGeKgBjfKztVyQBc=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Verdensmål og datalogi
-DTEND:20211210T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211210T110000Z
+DTEND:20220504T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220504T120000Z
 SEQUENCE:0
-SUMMARY:DM500: Studieintroduktion for Datalogi\, efterår 21. f: Lecture - 
- Odense U23
-UID:TqMBn4G2um6Mw6FRQWWjmPgyTrQ=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:wVRCsdDpnYDDaj1GPVZJZmGF52s=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211213T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211213T100000Z
+DTEND:20220505T090000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220505T060000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U177
-UID:6GsdR1WrloAKldYKY/UsI0BCNeM=@itslearning.com
+SUMMARY:DM505\, DM564: Databasesystemer/Databasedesign og -programmering\,
+  forår 22: H8E - Lessons - Odense...
+UID:C/BYExsi4qcaMQeA3jywxs9tLW8=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211213T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211213T110000Z
+DTEND:20220505T120000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220505T100000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:wYvkvgRqZnlayzQyHKPUf24Y4Pw=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:3O5uV6HT9N6J/qgIsmTkGrgKfHI=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211213T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211213T130000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220505T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220505T120000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8L - Exerc
- ises - Odense U30
-UID:ypgZmgr5ZPkMu9lUApwZqSSc/ng=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U55
+UID:nDlIiZvrL0bBgG6GXnzfcMGxhC0=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211214T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211214T070000Z
+DTEND:20220506T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220506T060000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U20
-UID:8OoCIso+0KgcQyjByDcIL2o5GyI=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U46
+UID:254dKblnM7/wYUIIbIPmvH0C1BM=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211214T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211214T090000Z
+DTEND:20220506T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220506T080000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8E - Le
- ssons - Odense U24A
-UID:CyAAA193JjM9z2JMc9mfV1tTYlA=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U80
+UID:/inyC5DYzSfh07LyXF1rpnrT2Os=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211214T150000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211214T130000Z
-SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U24
-UID:/oStZjTOqfNFqXoVfsbX9K967Wc=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211214T180000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211214T150000Z
+DTEND:20220509T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220509T080000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:gSMDlyoe6XN2jrF+dUqjKz6XznI=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U110
+UID:rQb5y5Wid+kN4buq7prURrROpfQ=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211215T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211215T090000Z
+DTEND:20220509T120000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220509T100000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: F - Lecture - Od
- ense U47
-UID:M0BkGgDoa/e294TAZ1H2elsNDHU=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:S7YV5uoSZXI0VCmToFSbMNv8PFw=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211215T120000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211215T110000Z
-SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: Lecture - O
- dense U140
-UID:9M04spjxV6Vjb6/+FBvnZmMfcAI=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SF-time
-DTEND:20211216T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211216T070000Z
+DTEND:20220509T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220509T120000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - *Odense NAT
-  Lokalitet aftales 12
-UID:dM+tfTmz41ZSfufv1S2W14Vw5tY=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 151
+UID:+poQKX81aOja0TMXVSqBCLf54M4=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211216T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211216T070000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220510T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220510T080000Z
 SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: H3E - Lessons - 
- Odense U156
-UID:w4t59SUdJQAICBt5YF+mCzkgnFE=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:4QWFFa9cyWR/TpkckekSEEmSsd4=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211216T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211216T090000Z
+DTEND:20220511T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220511T060000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:SNcUjUAygaedAENfyNwFF01cI9Y=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 143
+UID:25k7M+3N3BDCFHxJzX1auLjtKRI=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211216T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211216T110000Z
+DTEND:20220511T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220511T060000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:tQQpU6Z2b2hRhv7a2ia3e7mu/gA=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U144
+UID:V2PmTP5C7ggX5/csVNe9I8d0Xzc=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211217T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211217T070000Z
-SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: F - Lecture - Odense U23
-UID:WWaFWb42x/kNWwgzXqUTcuMUzfs=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211217T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211217T090000Z
+DTEND:20220511T120000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220511T100000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: H8L - Ex
- ercises - Odense NAT White Lab
-UID:b8rtcGGYBOZRsTHUH+vXRpVFnoM=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U30
+UID:/pYSJJ7sE4TccELMdp8i4q5mCiU=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211217T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211217T110000Z
+DTEND:20220511T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220511T120000Z
 SEQUENCE:0
-SUMMARY:MM505\, DM561: Lineær algebra...\, efterår 21. f: H3E - Lessons - 
- Odense U24A
-UID:p7N3Z7Z11vlLuDPfmQruvhFY/Dg=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: Lecture - Odense U20
+UID:Cv26JQuS/ZXLX5X078aX2Y+mXWk=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211217T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211217T110000Z
+DTEND:20220516T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220516T080000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:MFRM9Iqk2J5AIoyjDqXfed+V0Q0=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: Lecture - Odense U110
+UID:0NE9VyQrnRD16P16fOWC/14+MbY=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211220T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211220T110000Z
+DTEND:20220516T120000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220516T100000Z
 SEQUENCE:0
-SUMMARY:DM534\, DM558: Introduktion til Datalogi\, efterår 21. f: Lecture 
- - Odense U20
-UID:CLV20TsIY6C0mOUBiKwGXWNxBhs=@itslearning.com
+SUMMARY:DM510: Operativsystemer\, forår 22. f: H1E - Lessons - Odense U152
+UID:gTC3fMMesFcGNLFqWPgLes6RGAI=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211221T130000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211221T110000Z
+DTEND:20220517T080000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220517T060000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U30
-UID:VmInlfMc3u6udgqeCyeh8yOVa+U=@itslearning.com
+SUMMARY:DM552: Programmeringssprog\, forår 22. f: H1E - Lessons - Odense U
+ 151
+UID:lOu7yf8FdK9gIFGQWcU+vDwsWWM=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND:20211221T180000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211221T150000Z
-SEQUENCE:0
-SUMMARY:DM572: Netværk og Cybersikkerhed\, efterår 21. f: Lecture - Odense
-  U23
-UID:ib4XqhwPDMQtK2aIoD1wvWNQEG8=@itslearning.com
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SDU Maps.
-DTEND:20211222T090000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211222T070000Z
+DESCRIPTION:SDU Maps. Rolf Fagerberg
+DTEND:20220517T100000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220517T080000Z
 SEQUENCE:0
-SUMMARY:MM537\, DM549\, DS820\, efterår 21. f: H8E - Lessons - Odense U31
-UID:KnZq48XTNoQ7cRSOaB91zAsCF8s=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: Lecture - 
+ Odense U45
+UID:GA2v2+TVNw7FGfLW+E7M347nXDw=@itslearning.com
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SDU Maps.
-DTEND:20211222T110000Z
-DTSTAMP:20210927T184505Z
-DTSTART:20211222T090000Z
+DTEND:20220518T140000Z
+DTSTAMP:20220207T122416Z
+DTSTART:20220518T120000Z
 SEQUENCE:0
-SUMMARY:DM550: Introduktion til Programmering\, efterår 21. f: H8E - Lesso
- ns - Odense U30
-UID:C0YhRKakTD2y8Q+bQEDY0WUwDkk=@itslearning.com
+SUMMARY:DM507\, DS814: Algoritmer og Datastrukturer\, forår 22: H8E - Less
+ ons - Odense U147
+UID:GibIG9FBNufG4XKlM/BuY+5AP+0=@itslearning.com
 END:VEVENT
 END:VCALENDAR
